@@ -11,6 +11,7 @@ Tekst is my own programming language built with C++17
 I'm working on its interpreter, standard library, tooling, and overall ecosystem
 
 [Website](https://tekst.ayaan.is-a.dev)
+
 [GitLab](https://gitlab.com/ayaandh/Tekst)
 
 ## What I Use
@@ -48,9 +49,6 @@ A Python and Pygame game development library
 
 [GitHub](https://github.com/ayaandh)
 
-[YouTube](https://youtube.com/@AyaanDhalait)
-
-[X](https://x.com/AyaanDhalait)
 
 ## Currently Learning
 
