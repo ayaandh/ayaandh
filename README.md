@@ -1,7 +1,5 @@
-# Hi There and welcome to my Github!
+# Hi There!
 
-Find me on [LinkedIn](https://linkedin.com/in/ayaan-dhalait)
+I'm Ayaan Dhalait, a Year 10 high school student and programmer. I code in C++ and Python and sometimes do front-end web development.
 
-Visit my [Website](https://ayaan.is-a.dev)
-
-Currently Working on: My own programming language called [Tekst](https://tekst.ayaan.is-a.dev)
+Find me on [Linkedin](https://linkedin.com/in/ayaandh) or [Github](https://github.com/ayaandh)
